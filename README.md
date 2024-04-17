@@ -1,0 +1,1 @@
+This is a prototype of an idea I had. It's essentially a forum for cataloging ARGs (Alternate Reality Game).  The plan is to allow users to sign up and upload text as well as images to discuss ARGs. While similar forums exist such as reddit this particular one is less bogged down by being lumped with other unrelated sub forums.
